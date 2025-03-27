@@ -35,9 +35,7 @@
  plt.show()
  ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
  # Output Waveform
-
  ![image](https://github.com/user-attachments/assets/aef75f70-b2c3-4ec6-a9e0-95b6c30783b6)
-
 # Results
 
 The analog signal was successfully converted using Delta Modulation.
